@@ -1,0 +1,8 @@
+#! Python 執行產物
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+#! 虛擬環境
+.venv/
