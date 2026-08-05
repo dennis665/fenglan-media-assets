@@ -1,8 +1,7 @@
-#! Python 執行產物
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
-
-#! 虛擬環境
-.venv/
+# 忽略除了 images/ 與 video/ 以外的所有內容
+*
+!.gitignore
+!/images/
+!/images/**
+!/video/
+!/video/**
