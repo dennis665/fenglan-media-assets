@@ -1,0 +1,7 @@
+# 忽略除了 images/ 與 video/ 以外的所有內容
+*
+!.gitignore
+!/images/
+!/images/**
+!/video/
+!/video/**
