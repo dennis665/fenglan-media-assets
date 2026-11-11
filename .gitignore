@@ -1,9 +1,7 @@
-# 忽略除了 images/、video/、cards/（抽卡卡面）以外的所有內容
+# 忽略除了 images/、video/以外的所有內容
 *
 !.gitignore
 !/images/
 !/images/**
 !/video/
 !/video/**
-!/cards/
-!/cards/**
